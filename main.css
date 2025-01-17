@@ -8,7 +8,7 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
+    font-family: "Jersey 15", serif;
     font-weight: normal;
 }
 
@@ -143,7 +143,7 @@ input:focus, textarea:focus {
 }
 
 footer {    
-    background-color: #182c61;
-    color: #000000;
+    background-color: #000000;
+    color: #ffffff;
     padding: 16px 0;
 }
